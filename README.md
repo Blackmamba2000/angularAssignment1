@@ -1,3 +1,8 @@
+~~~~~~~~~~ Angular 6 - Assignment 1 ~~~~~~~~~~
+
+In this Assignment, I will practice implementing button via the Bootstrap 3 lib.
+
+
 ~~~~~~~~~~ How to Run this Project ~~~~~~~~~~
 
 1) Download and Install Node.js version 8.10 or higher. The Node.js will also install npm tool.
